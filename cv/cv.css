@@ -1,0 +1,15 @@
+h4 {
+    background-color: rgba(210, 180, 30, 0.643);
+
+}
+#profile{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+}
+#name{
+    width: 100%;
+}
+img{
+    border-radius: 50%;
+}
